@@ -1,2 +1,2 @@
 # hello-world
-another repository
+hi everyone! This is sevde. I am a cat person who loves dogs. 
